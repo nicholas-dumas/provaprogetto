@@ -12,3 +12,6 @@ I created my fork and cloned it onto my computer.
 A commit records a version locally.
 A push sends commits to the remote repository.
 A tag identifies a specific version.
+
+## Next steps
+Practice branches and review the project requirements.
